@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1608055-4d56-41ca-a633-1ef574293a09" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/lesson11/MainApp.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1608055-4d56-41ca-a633-1ef574293a09" name="Changes" comment="lesson 11 - Hibernate, homework" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,8 +87,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672755493632</updated>
-      <workItem from="1672755495565" duration="26026000" />
+      <workItem from="1672755495565" duration="26362000" />
     </task>
+    <task id="LOCAL-00001" summary="lesson 11 - Hibernate, homework">
+      <created>1672927841593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672927841593</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lesson 11 - Hibernate, homework">
+      <created>1672927988862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672927988862</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lesson 11 - Hibernate, homework">
+      <created>1672928081112</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672928081112</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +130,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 11 - Hibernate, homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 11 - Hibernate, homework" />
   </component>
 </project>
