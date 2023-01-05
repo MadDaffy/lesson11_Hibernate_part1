@@ -18,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -87,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672755493632</updated>
-      <workItem from="1672755495565" duration="26362000" />
+      <workItem from="1672755495565" duration="26678000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 11 - Hibernate, homework">
       <created>1672927841593</created>
@@ -110,7 +111,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672928081112</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson 11 - Hibernate, homework">
+      <created>1672928135308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672928135308</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lesson 11 - Hibernate, homework">
+      <created>1672928216656</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672928216656</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
